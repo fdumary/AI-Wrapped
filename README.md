@@ -2,7 +2,7 @@
 
 ColorStack Winter Break Hackathon Edition 2025
 
-https://colorstackwinterhack2025-ai-wrapped.vercel.app/
+https://ai-wrapped-five.vercel.app/
 
 ## Description
 AI Wrapped is a Chrome extension that generates a weekly digest of how users interacted with AI over the past week. Each weekly report includes the total number of AI prompts, the top prompt categories, responsible AI signals, and reflections on AI usage.
